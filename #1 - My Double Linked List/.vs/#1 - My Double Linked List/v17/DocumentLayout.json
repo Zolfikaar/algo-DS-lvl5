@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#1 - My Double Linked List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C026F353-DE02-437C-8760-6B30670DE5DD}|#1 - My Double Linked List\\#1 - My Double Linked List.vcxproj|C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#1 - My Double Linked List\\#1 - My Double Linked List\\#1 - My Double Linked List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C026F353-DE02-437C-8760-6B30670DE5DD}|#1 - My Double Linked List\\#1 - My Double Linked List.vcxproj|solutionrelative:#1 - My Double Linked List\\#1 - My Double Linked List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 287,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "#1 - My Double Linked List.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#1 - My Double Linked List\\#1 - My Double Linked List\\#1 - My Double Linked List.cpp",
+              "RelativeDocumentMoniker": "#1 - My Double Linked List\\#1 - My Double Linked List.cpp",
+              "ToolTip": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#1 - My Double Linked List\\#1 - My Double Linked List\\#1 - My Double Linked List.cpp",
+              "RelativeToolTip": "#1 - My Double Linked List\\#1 - My Double Linked List.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T09:42:06.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
