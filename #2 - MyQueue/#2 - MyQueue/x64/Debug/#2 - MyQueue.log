@@ -1,0 +1,35 @@
+﻿  #2 - MyQueue.cpp
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\13 - Algorithms & Problem Solving Level 5\(256,19): warning C4018: '>=': signed/unsigned mismatch
+  (compiling source file '../../#2%20-%20MyQueue/#2%20-%20MyQueue/#2%20-%20MyQueue.cpp')
+      C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\13 - Algorithms & Problem Solving Level 5\(256,19):
+      the template instantiation context (the oldest one first) is
+          C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\13 - Algorithms & Problem Solving Level 5\(8,22):
+          see reference to class template instantiation 'clsMyQueue<int>' being compiled
+          C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\13 - Algorithms & Problem Solving Level 5\(9,26):
+          see reference to class template instantiation 'clsDblLinkedList<T>' being compiled
+          with
+          [
+              T=int
+          ]
+          C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\13 - Algorithms & Problem Solving Level 5\(254,11):
+          while compiling class template member function 'clsDblLinkedList<T>::Node *clsDblLinkedList<T>::GetNode(unsigned int)'
+          with
+          [
+              T=int
+          ]
+              C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\13 - Algorithms & Problem Solving Level 5\(315,24):
+              see the first reference to 'clsDblLinkedList<T>::GetNode' in 'clsDblLinkedList<T>::InsertAfter'
+          with
+          [
+              T=int
+          ]
+              C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\13 - Algorithms & Problem Solving Level 5\(60,28):
+              see the first reference to 'clsDblLinkedList<T>::InsertAfter' in 'clsMyQueue<int>::InsertAfter'
+          with
+          [
+              T=int
+          ]
+              C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\13 - Algorithms & Problem Solving Level 5\(40,24):
+              see the first reference to 'clsMyQueue<int>::InsertAfter' in 'main'
+  
+  #2 - MyQueue.vcxproj -> C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\13 - Algorithms & Problem Solving Level 5\#2 - MyQueue\x64\Debug\#2 - MyQueue.exe
