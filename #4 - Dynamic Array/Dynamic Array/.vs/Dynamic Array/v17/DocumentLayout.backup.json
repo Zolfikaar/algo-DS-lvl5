@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#4 - Dynamic Array\\Dynamic Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{045672CF-A5AB-4D09-9004-293091B9E513}|Dynamic Array\\Dynamic Array.vcxproj|C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#4 - Dynamic Array\\Dynamic Array\\Dynamic Array\\clsDynamicArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{045672CF-A5AB-4D09-9004-293091B9E513}|Dynamic Array\\Dynamic Array.vcxproj|solutionrelative:Dynamic Array\\clsDynamicArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045672CF-A5AB-4D09-9004-293091B9E513}|Dynamic Array\\Dynamic Array.vcxproj|C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#4 - Dynamic Array\\Dynamic Array\\Dynamic Array\\Dynamic Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{045672CF-A5AB-4D09-9004-293091B9E513}|Dynamic Array\\Dynamic Array.vcxproj|solutionrelative:Dynamic Array\\Dynamic Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 287,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsDynamicArray.h",
+              "DocumentMoniker": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#4 - Dynamic Array\\Dynamic Array\\Dynamic Array\\clsDynamicArray.h",
+              "RelativeDocumentMoniker": "Dynamic Array\\clsDynamicArray.h",
+              "ToolTip": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#4 - Dynamic Array\\Dynamic Array\\Dynamic Array\\clsDynamicArray.h",
+              "RelativeToolTip": "Dynamic Array\\clsDynamicArray.h",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAAAOwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T21:49:55.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dynamic Array.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#4 - Dynamic Array\\Dynamic Array\\Dynamic Array\\Dynamic Array.cpp",
+              "RelativeDocumentMoniker": "Dynamic Array\\Dynamic Array.cpp",
+              "ToolTip": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#4 - Dynamic Array\\Dynamic Array\\Dynamic Array\\Dynamic Array.cpp",
+              "RelativeToolTip": "Dynamic Array\\Dynamic Array.cpp",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAxwIgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T15:52:01.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
