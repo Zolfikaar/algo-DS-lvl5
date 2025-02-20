@@ -1,0 +1,35 @@
+﻿  #3 - My Stack.cpp
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\13 - Algorithms & Problem Solving Level 5\(256,19): warning C4018: '>=': signed/unsigned mismatch
+  (compiling source file '../../#3%20-%20My%20Stack/#3%20-%20My%20Stack/#3%20-%20My%20Stack.cpp')
+      C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\13 - Algorithms & Problem Solving Level 5\(256,19):
+      the template instantiation context (the oldest one first) is
+          C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\13 - Algorithms & Problem Solving Level 5\(8,22):
+          see reference to class template instantiation 'clsMyStack<int>' being compiled
+          C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\13 - Algorithms & Problem Solving Level 5\(11,26):
+          see reference to class template instantiation 'clsDblLinkedList<T>' being compiled
+          with
+          [
+              T=int
+          ]
+          C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\13 - Algorithms & Problem Solving Level 5\(254,11):
+          while compiling class template member function 'clsDblLinkedList<T>::Node *clsDblLinkedList<T>::GetNode(unsigned int)'
+          with
+          [
+              T=int
+          ]
+              C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\13 - Algorithms & Problem Solving Level 5\(299,24):
+              see the first reference to 'clsDblLinkedList<T>::GetNode' in 'clsDblLinkedList<T>::UpdateItem'
+          with
+          [
+              T=int
+          ]
+              C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\13 - Algorithms & Problem Solving Level 5\(53,27):
+              see the first reference to 'clsDblLinkedList<T>::UpdateItem' in 'clsMyStack<int>::UpdateItem'
+          with
+          [
+              T=int
+          ]
+              C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\13 - Algorithms & Problem Solving Level 5\(38,23):
+              see the first reference to 'clsMyStack<int>::UpdateItem' in 'main'
+  
+  #3 - My Stack.vcxproj -> C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\13 - Algorithms & Problem Solving Level 5\#3 - My Stack\x64\Debug\#3 - My Stack.exe
