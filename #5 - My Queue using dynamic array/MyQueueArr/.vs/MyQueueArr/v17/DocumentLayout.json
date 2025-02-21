@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#5 - My Queue using dynamic array\\MyQueueArr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{406043C1-0563-4B92-B937-BA6FC31F4736}|MyQueueArr\\MyQueueArr.vcxproj|C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#5 - My Queue using dynamic array\\MyQueueArr\\MyQueueArr\\MyQueueArr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{406043C1-0563-4B92-B937-BA6FC31F4736}|MyQueueArr\\MyQueueArr.vcxproj|solutionrelative:MyQueueArr\\MyQueueArr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406043C1-0563-4B92-B937-BA6FC31F4736}|MyQueueArr\\MyQueueArr.vcxproj|C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#5 - My Queue using dynamic array\\MyQueueArr\\MyQueueArr\\clsMyQueueArr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{406043C1-0563-4B92-B937-BA6FC31F4736}|MyQueueArr\\MyQueueArr.vcxproj|solutionrelative:MyQueueArr\\clsMyQueueArr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 287,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsMyQueueArr.h",
+              "DocumentMoniker": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#5 - My Queue using dynamic array\\MyQueueArr\\MyQueueArr\\clsMyQueueArr.h",
+              "RelativeDocumentMoniker": "MyQueueArr\\clsMyQueueArr.h",
+              "ToolTip": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#5 - My Queue using dynamic array\\MyQueueArr\\MyQueueArr\\clsMyQueueArr.h",
+              "RelativeToolTip": "MyQueueArr\\clsMyQueueArr.h",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T15:25:38.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyQueueArr.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#5 - My Queue using dynamic array\\MyQueueArr\\MyQueueArr\\MyQueueArr.cpp",
+              "RelativeDocumentMoniker": "MyQueueArr\\MyQueueArr.cpp",
+              "ToolTip": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#5 - My Queue using dynamic array\\MyQueueArr\\MyQueueArr\\MyQueueArr.cpp",
+              "RelativeToolTip": "MyQueueArr\\MyQueueArr.cpp",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T15:21:16.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
