@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#8 - Queue Line\\QueueLine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5431B86-7570-48B4-9321-44CD9CAC0BC7}|QueueLine\\QueueLine.vcxproj|C:\\USERS\\MSI-PC\\WORK FILES\\C\u002B\u002B\\ABU HADHUD\\13 - ALGORITHMS \u0026 PROBLEM SOLVING LEVEL 5\\#8 - QUEUE LINE\\QUEUELINE\\QUEUELINE\\CLSQUEUELINE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5431B86-7570-48B4-9321-44CD9CAC0BC7}|QueueLine\\QueueLine.vcxproj|solutionrelative:QUEUELINE\\CLSQUEUELINE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5431B86-7570-48B4-9321-44CD9CAC0BC7}|QueueLine\\QueueLine.vcxproj|C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#8 - Queue Line\\QueueLine\\QueueLine\\QueueLine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5431B86-7570-48B4-9321-44CD9CAC0BC7}|QueueLine\\QueueLine.vcxproj|solutionrelative:QueueLine\\QueueLine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 287,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueueLine.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#8 - Queue Line\\QueueLine\\QueueLine\\QueueLine.cpp",
+              "RelativeDocumentMoniker": "QueueLine\\QueueLine.cpp",
+              "ToolTip": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#8 - Queue Line\\QueueLine\\QueueLine\\QueueLine.cpp",
+              "RelativeToolTip": "QueueLine\\QueueLine.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T16:46:45.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsQueueLine.h",
+              "DocumentMoniker": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#8 - Queue Line\\QueueLine\\QueueLine\\clsQueueLine.h",
+              "RelativeDocumentMoniker": "QueueLine\\clsQueueLine.h",
+              "ToolTip": "C:\\Users\\MSI-PC\\Work Files\\C\u002B\u002B\\Abu Hadhud\\13 - Algorithms \u0026 Problem Solving Level 5\\#8 - Queue Line\\QueueLine\\QueueLine\\clsQueueLine.h",
+              "RelativeToolTip": "QueueLine\\clsQueueLine.h",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T16:49:11.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
