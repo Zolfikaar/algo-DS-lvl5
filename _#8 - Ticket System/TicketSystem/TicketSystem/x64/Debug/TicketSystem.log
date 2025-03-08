@@ -1,0 +1,10 @@
+﻿  TicketSystem.cpp
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\13 - Algorithms & Problem Solving Level 5\_#8 - Ticket System\TicketSystem\TicketSystem\clsSubscriptions.h(10,1): error C2059: syntax error: '}'
+  (compiling source file '../../../_#8%20-%20Ticket%20System/TicketSystem/TicketSystem/TicketSystem.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\13 - Algorithms & Problem Solving Level 5\_#8 - Ticket System\TicketSystem\TicketSystem\clsSubscriptions.h(10,1): error C2143: syntax error: missing ';' before '}'
+  (compiling source file '../../../_#8%20-%20Ticket%20System/TicketSystem/TicketSystem/TicketSystem.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\13 - Algorithms & Problem Solving Level 5\_#8 - Ticket System\TicketSystem\TicketSystem\clsSubscriptions.h(10,1): error C2238: unexpected token(s) preceding ';'
+  (compiling source file '../../../_#8%20-%20Ticket%20System/TicketSystem/TicketSystem/TicketSystem.cpp')
+  
